@@ -34,7 +34,7 @@ st.subheader("Information about the pubs")
 
 
 
-df1 = pd.read_csv("data\pub.csv")
+df1 = pd.read_csv("pub.csv")
 
 
 
