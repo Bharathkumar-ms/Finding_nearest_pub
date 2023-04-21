@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-df1 = pd.read_csv("data\pub.csv")
+df1 = pd.read_csv("pub.csv")
 
 
 st.markdown('<h1 style="color:green">UK MAP PUB Locations</h1>', unsafe_allow_html=True)
