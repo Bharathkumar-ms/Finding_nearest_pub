@@ -6,7 +6,7 @@ st.set_page_config(
     page_title="Nearest Pub"
 )
 
-df1 = pd.read_csv("pub.csv")
+df1 = pd.read_csv("new_pubs.csv")
 
 st.markdown('<h1 style="color:green">Nearest five Pubs based on user enter Latitude and longitude</h1>', unsafe_allow_html=True)
 
